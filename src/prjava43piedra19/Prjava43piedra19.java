@@ -1,13 +1,10 @@
 package prjava43piedra19; 
 import java.awt.*;        // using AWT containers and components
 import java.awt.event.*;  // using AWT events and listener interfaces 
-<<<<<<< HEAD
-import java.net.*;
-
-=======
+import java.sql.*;
 import java.io.*;
  
->>>>>>> branca00piedra19
+
 // An AWT GUI program inherits the top-level container java.awt.Frame 
 public class Prjava43piedra19 extends Frame 
       implements ActionListener, WindowListener { 
